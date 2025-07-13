@@ -1,7 +1,5 @@
 # NeoRAG: A Graph-Based Retrieval‑Augmented Generation System
 
-![NeoRAG Architecture](./docs/architecture.png)
-
 ## 🚀 Project Overview
 
 **NeoRAG** leverages the power of **LlamaIndex**, **Neo4j AuraDB**, and **OpenAI's GPT‑4O Mini** to create an enterprise‑grade, **Graph‑RAG (Retrieval‑Augmented Generation)** knowledge engine. By ingesting structured and unstructured data from sources like Wikipedia and the web, NeoRAG builds a rich property graph in AuraDB, enabling:
